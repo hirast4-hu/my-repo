@@ -1,2 +1,1 @@
-Hello
-This is second line
+Conflict from branch
